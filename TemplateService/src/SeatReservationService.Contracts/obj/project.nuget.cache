@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6juIZnrFfQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maste\\Projects\\seat-reservation-service\\backend\\TemplateService\\src\\SeatReservationService.Contracts\\SeatReservationService.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maste\\.nuget\\packages\\asyncfixer\\2.1.0\\asyncfixer.2.1.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\meziantou.analyzer\\3.0.44\\meziantou.analyzer.3.0.44.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\roslynator.analyzers\\5.0.1\\roslynator.analyzers.5.0.1.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\sonaranalyzer.csharp\\10.35.0.4138\\sonaranalyzer.csharp.10.35.0.4138.nupkg.sha512"
+  ],
+  "logs": []
+}

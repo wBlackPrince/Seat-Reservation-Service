@@ -1,0 +1,11 @@
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\bin\Debug\net10.0\SeatReservationService.Contracts.deps.json
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\bin\Debug\net10.0\SeatReservationService.Contracts.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\bin\Debug\net10.0\SeatReservationService.Contracts.pdb
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.AssemblyInfoInputs.cache
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.AssemblyInfo.cs
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\refint\SeatReservationService.Contracts.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\SeatReservationService.Contracts.pdb
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Contracts\obj\Debug\net10.0\ref\SeatReservationService.Contracts.dll

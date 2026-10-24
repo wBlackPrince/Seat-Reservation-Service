@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\SeatReservationService.Contracts\SeatReservationService.Contracts.csproj" />
+    <ProjectReference Include="..\SeatReservationService.Core\SeatReservationService.Core.csproj" />
+    <ProjectReference Include="..\SeatReservationService.Domain\SeatReservationService.Domain.csproj" />
+    <ProjectReference Include="..\SeatReservationService.Infrastructure.Postgres\SeatReservationService.Infrastructure.Postgres.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" />
+    <PackageReference Include="Scalar.AspNetCore" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUbANH13n5s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maste\\Projects\\seat-reservation-service\\backend\\TemplateService\\src\\SeatReservationService.Web\\SeatReservationService.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maste\\.nuget\\packages\\asyncfixer\\2.1.0\\asyncfixer.2.1.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.2.0\\fluentvalidation.dependencyinjectionextensions.12.2.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\meziantou.analyzer\\3.0.44\\meziantou.analyzer.3.0.44.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.13\\microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.13\\microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.13\\microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.13\\microsoft.entityframeworkcore.relational.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.entityframeworkcore\\10.0.13\\microsoft.extensions.diagnostics.healthchecks.entityframeworkcore.10.0.13.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.3\\npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\roslynator.analyzers\\5.0.1\\roslynator.analyzers.5.0.1.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\scalar.aspnetcore\\2.18.0\\scalar.aspnetcore.2.18.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\scrutor\\7.0.0\\scrutor.7.0.0.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\sonaranalyzer.csharp\\10.35.0.4138\\sonaranalyzer.csharp.10.35.0.4138.nupkg.sha512"
+  ],
+  "logs": []
+}

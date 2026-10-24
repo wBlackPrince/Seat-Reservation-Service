@@ -1,0 +1,17 @@
+c:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Core.deps.json
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Core.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Core.pdb
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Contracts.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Domain.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Contracts.pdb
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\bin\Debug\net10.0\SeatReservationService.Domain.pdb
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.csproj.AssemblyReference.cache
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.AssemblyInfoInputs.cache
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.AssemblyInfo.cs
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.csproj.CoreCompileInputs.cache
+c:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatRese.40123517.Up2Date
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\refint\SeatReservationService.Core.dll
+C:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\SeatReservationService.Core.pdb
+c:\Users\maste\Projects\seat-reservation-service\backend\TemplateService\src\SeatReservationService.Core\obj\Debug\net10.0\ref\SeatReservationService.Core.dll

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SeatReservationService.Contracts/SeatReservationService.Contracts.csproj" />
+    <Project Path="src/SeatReservationService.Core/SeatReservationService.Core.csproj" />
+    <Project Path="src/SeatReservationService.Domain/SeatReservationService.Domain.csproj" />
+    <Project Path="src/SeatReservationService.Infrastructure.Postgres/SeatReservationService.Infrastructure.Postgres.csproj" />
+    <Project Path="src/SeatReservationService.Web/SeatReservationService.Web.csproj" />
+  </Folder>
+</Solution>
